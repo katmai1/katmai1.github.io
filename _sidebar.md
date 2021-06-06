@@ -1,4 +1,2 @@
-# Menu
-
 * [Home](./)
 * joaaaan
