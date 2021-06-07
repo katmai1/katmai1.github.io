@@ -2,6 +2,6 @@
 
 > Wiki personal
 
-'''
+```bash
 sudo apt install tuputamadre
-'''
+```
