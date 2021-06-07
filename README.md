@@ -3,5 +3,5 @@
 > Wiki personal
 
 ```bash
-sudo apt install tuputamadre
+sudo apt install tuputamadre2
 ```
