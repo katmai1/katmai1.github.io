@@ -17,6 +17,6 @@ Requisitos:
 - RAM: 768M/1G
 - CPU: 1Ghz/1.5Ghz
 
-#### [Trisquel](https://trisquel.info/en)
+- [Trisquel](https://trisquel.info/en)
 
 Para testear
