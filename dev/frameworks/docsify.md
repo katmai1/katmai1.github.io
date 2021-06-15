@@ -1,6 +1,6 @@
 # Docsify
 
-Generador de paginas estaticas a partir de documentos [markdown](../md/index.md)
+Generador de paginas estaticas a partir de documentos [Markdown](./dev/md/index.md)
 
 - [Docsify](#docsify)
   - [Enlaces](#enlaces)
